@@ -13,7 +13,7 @@ if(have_posts()){
            the_title('<h2>','</h2>');
            the_content();
            echo '</div>';
-     };
+     }
     ?>    
     </main>
 <?php
